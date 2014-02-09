@@ -1,6 +1,5 @@
 package io.github.kongeor.labmdas.part1;
 
-import java.math.BigDecimal;
 
 public class Worm {
 
@@ -19,5 +18,6 @@ public class Worm {
 	public String getTeam() {
 		return team;
 	}
+	
 
 }
